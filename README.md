@@ -1,6 +1,6 @@
-<p align="center"><img src="https://i.imgur.com/C8QrIja.png"></p>
+# minecraft-familiarfauna
 
-**Familiar Fauna** is a **Minecraft mod** that adds **new creatures** to enhance **atmosphere and exploration**!
+A Minecraft mod (originally written by Glitchfiend) that adds new animals, insects, and other creatures to enhance atmosphere and exploration!
 
 -----------------
 
